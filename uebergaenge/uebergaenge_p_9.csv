@@ -1,0 +1,14 @@
+bellis_perennis_D1_30;Start;;;;
+thuja_C1_30;tumor_gleich;sykose_staerker;syphilinie_staerker;;
+thuja_C1_30;tumor_gleich;sykose_schwaecher;syphilinie_schwaecher;;
+bellis_perennis_C1_30;tumor_kleiner;sykose_staerker;syphilinie_schwaecher;schmerzen_staerker;
+psorinum_C100_10000;tumor_kleiner;sykose_schwaecher;syphilinie_schwaecher;;
+syphilinum_C100_10000;tumor_gleich;sykose_staerker;syphilinie_staerker;;
+medorrhinum_C1_30;tumor_kleiner;sykose_schwaecher;;;psora_staerker
+syphilinum_C100_10000;tumor_groesser;sykose_schwaecher;;;
+silicea_C1_30;tumor_kleiner;sykose_schwaecher;;;
+placebo;tumor_gleich;sykose_staerker;;;
+medorrhinum_C100_10000;tumor_gleich;sykose_schwaecher;;schmerzen_staerker;
+medorrhinum_C100_10000;tumor_gleich;;;;
+psorinum_C100_10000;tumor_weg;;;;psora_staerker
+ende;tumor_weg;;;;

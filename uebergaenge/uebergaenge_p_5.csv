@@ -1,0 +1,14 @@
+sepia_C1_30;Start;;;
+syphilinum_C100_10000;tumor_gleich;;syphilinie_schwaecher;psora_staerker
+syphilinum_C100_10000;tumor_kleiner;sykose_schwaecher;;psora_schwaecher
+syphilinum_C100_10000;tumor_kleiner;sykose_staerker;;psora_staerker
+iris_versicolor_C1_30;tumor_kleiner;sykose_staerker;;
+syphilinum_C100_10000;tumor_kleiner;;;psora_schwaecher
+arsenicum_album_C1_30;tumor_kleiner;;;psora_staerker
+aurum_muriaticum_D1_30;tumor_gleich;;;
+calcium_hypophosphoricum_D1_30;tumor_gleich;;;psora_staerker
+aurum_muriaticum_D1_30;tumor_gleich;;;
+syphilinum_C100_10000;tumor_gleich;;;
+iris_versicolor_D1_30;tumor_kleiner;;;
+aurum_muriaticum_D1_30;tumor_weg;;;
+ende;tumor_weg;;;
